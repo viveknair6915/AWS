@@ -1,0 +1,5 @@
+{
+    "bucket_name": "your-s3-bucket-name",
+    "file_name": "example.pdf",
+    "file_content": "base64_encoded_content_here"
+}
